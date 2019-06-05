@@ -14,4 +14,4 @@ http://localhsot:8081
 
 #### Instructions
 
-Start the applications and hit the rest endpoints
+Start the application and hit the rest endpoints
